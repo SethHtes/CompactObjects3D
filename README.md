@@ -1,5 +1,12 @@
 # CompactObjects3D
 
+## Timetable
+
+The timetable for the week can be found at \
+<https://docs.google.com/spreadsheets/d/1F3cvZi8udHyWcLh8u3I4XhnPMiKk--hHgWuoKmNuBwE/edit?usp=sharing>
+
+## Software requirments
+
 For full participation in the workshop, please have a modern Python environment available (minimum 3.6, recommended 3.10).
 We have provided a list of Python packages that will be required.
 
@@ -17,3 +24,5 @@ We also recommend ensuring an up-to-date CALDB installation that includes IXPE f
 <https://heasarc.gsfc.nasa.gov/docs/heasarc/caldb/install.html>
 
 Finally, we optionally recommend having a FORTRAN compiler avaliable.
+
+
