@@ -1,0 +1,9 @@
+notebook
+numpy
+matplotlib
+scipy
+astropy
+ixpeobssim
+stingray
+torch
+scikit-learn
